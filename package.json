@@ -18,5 +18,8 @@
   "homepage": "https://github.com/HazShk/jest--rolePlayingGame#readme",
   "devDependencies": {
     "jest": "^30.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^14.2.2"
   }
 }
